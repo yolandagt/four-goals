@@ -24,6 +24,9 @@ public class Proyecto1 {
         System.out.println("Holiwiss mundix ");
   System.out.println("Suscribete a mi canal");
 System.out.println("Holaa");
+System.out.println("FEAS TODAS");
+
+
     }
     
 }
