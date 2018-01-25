@@ -20,6 +20,8 @@ public class Proyecto1 {
 // TODO code application logic here
 
             System.out.println("Holiwiss mundix ");
+        System.out.println("HOLA CHICAS");
+
     }
     
 }
