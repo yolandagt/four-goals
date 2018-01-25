@@ -23,6 +23,7 @@ public class Proyecto1 {
         System.out.println("HOLA CHICAS");
         System.out.println("Holiwiss mundix ");
   System.out.println("Suscribete a mi canal");
+System.out.println("nos salio");
 
     }
     
