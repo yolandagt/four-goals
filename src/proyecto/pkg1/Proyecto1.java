@@ -21,6 +21,8 @@ public class Proyecto1 {
 
             System.out.println("Holiwiss mundix ");
             System.out.println("Hola a todos ");
+            System.out.println("Hola a amiguis ");
+
     }
     
 }
